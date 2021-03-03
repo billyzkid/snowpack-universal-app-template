@@ -1,13 +1,13 @@
 # Snowpack Universal App Template
 
-> ✨ Bootstrapped with [Create Snowpack App](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/cli) starting with [app-template-minimal](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-minimal) and enhanced with [socket.io](https://socket.io/), [jQuery](https://jquery.com/), [Sass](https://sass-lang.com/), [Prettier](https://prettier.io/), and [uvu](https://github.com/lukeed/uvu).
+> ✨ Bootstrapped with [Create Snowpack App](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/cli) starting with [app-template-minimal](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-minimal) and enhanced with [Socket.IO](https://socket.io/), [jQuery](https://jquery.com/), [Sass](https://sass-lang.com/), [Prettier](https://prettier.io/), and [uvu](https://github.com/lukeed/uvu).
 
 ## Features
 
 * All source code is using [ES Modules](https://nodejs.org/api/esm.html)
 * [ESM-HMR](https://github.com/snowpackjs/esm-hmr) is enabled for development
-* Demonstrates client/server integration with socket.io
-* Minimal build process; no bundling, minifying, or transpiling is used
+* Includes client/server modules demonstrating web socket integration
+* Minimal build process; no bundling, minifying, or transpiling is used by default
 * Deployed to Heroku: https://snowpack-universal-app.herokuapp.com/
 
 ## Scripts
