@@ -8,7 +8,7 @@
 * [ESM-HMR](https://github.com/snowpackjs/esm-hmr) is enabled for development
 * Demonstrates client/server integration with socket.io
 * Minimal build process; no bundling, minifying, or transpiling is used
-* Deployed to Heroku: https://snowpack-universal-app-template.herokuapp.com/
+* Deployed to Heroku: https://snowpack-universal-app.herokuapp.com/
 
 ## Scripts
 
