@@ -1,5 +1,6 @@
 import $ from 'jquery';
 import io from 'socket.io-client';
+import './index.scss';
 
 $(function () {
   const socket = io();
