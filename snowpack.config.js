@@ -3,7 +3,7 @@ export default {
     client: { url: '/' }
   },
   plugins: [
-    [ '@snowpack/plugin-sass' ]
+    '@snowpack/plugin-sass'
   ],
   routes: [
   ],
@@ -14,7 +14,9 @@ export default {
   packageOptions: {
   },
   devOptions: {
-    port: 3000
+    port: 3000,
+    open: 'default',
+    hmr: true
   },
   buildOptions: {
     //watch: true,
